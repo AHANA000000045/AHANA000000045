@@ -12,7 +12,7 @@
 
 ---
 
-## SYSTEM MAP
+## WHAT I HAVE WORKED ON : A BREAKDOWN OF THE USE CASES
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./svg/blueprint-dark.svg">
